@@ -3,8 +3,8 @@
 ![react](https://img.shields.io/badge/ReactJs-17.0.1-important.svg)
 ![react](https://img.shields.io/badge/reactDom-17.0.1-important.svg)
 
-**[뱃지나 프로젝트에 관한 이미지들이 이 위치에 들어가면 좋습니다]**  
-One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
+즉시 사용할 수 있도록 기본적인 코드정도만 작성하였다.
+
 
 ## Getting Started
 ```
