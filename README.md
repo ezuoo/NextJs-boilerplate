@@ -8,13 +8,22 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 git clone https://github.com/ezuoo/NextJs-boilerplate.git
 ```
 
-### Installation
+## Installation
 ```
 npm install
 ```
 
-## start
+## Running locally in development mode
 ```
 npm run dev
 ```
+
+## Building and deploying in production
+```
+npm build 
+npm start
+```
+## Docs
+[**NextJs Docs.**](https://nextjs.org/docs/getting-started)
+
 
