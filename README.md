@@ -1,5 +1,6 @@
 # NextJs Boilerplate :framed_picture:
-https://img.shields.io/static/v1?label=react&message=17.0.1&color=important
+https://img.shields.io/badge/react-17.0.1-important
+
 **[뱃지나 프로젝트에 관한 이미지들이 이 위치에 들어가면 좋습니다]**  
 One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
 
